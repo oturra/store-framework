@@ -7,11 +7,11 @@
     padding: 0;
     margin: 0 auto;
 }
-.infoCardContainer .infoCardHeadline {
+.infoCardHeadline {
     color: black;
     font-weight: bold;
 }
-.infoCardContainer .vtex-button {
+.infoCardCallActionContainer :global(.vtex-button):hover {
     background-color: white;
 }
 .infoCardContainer--metal {
