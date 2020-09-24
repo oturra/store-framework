@@ -1,8 +1,8 @@
 {
-    "store.custom#quem-somos": {
-        "path": "/quem-somos"
-    },
     "store.custom#about-us": {
         "path": "/about-us"
+    },
+    "store.custom#quem-somos": {
+        "path": "/quem-somos"
     }
 }
